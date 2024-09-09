@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+   
+}
+
+
+/* start header/nav section ************************************************* */
+   .header-father{
+    width: 1000px;
+    height: 600px;
+    background-color: wheat;
+    margin: auto;
+    background-image: url(../img/66.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+   }
+/* :start navbar links ******************=**************** */
+   .navbar-links{
+    width: 400px;
+    height: 30px;
+    /* border: 1px solid salmon; */
+    margin: 0px 20px;
+    padding: 20px 1px;
+   }
+   .navbar-links a{
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    margin: 10px;
+    font-family: cursive;
+    font-size: 18px;
+
+   }
+/* end .navbar links *********************************** */
+   .hello{
+    width: 1000px;
+    height: 100px;
+    /* background-color: aquamarine; */
+    text-align: center;
+    margin-top: 150px;
+   }
+   .hello h2{
+    font-family: cursive;
+    font-size: 25px;
+    /* font-weight: bold; */
+    
+   }
+   .hello button{
+    color: white;
+    background-color: #5e61ad;
+    font-family: serif;
+    font-size: 16px;
+    border: 0;
+    padding: 3px 20px;
+    border-radius: 20px;
+    margin-top: 30px;
+   }
+/* end header/nav section ************************************************* */
+
+/* start father section 1 ************************************************** */
+.father-section1{
+    width: 1000px;
+    height: 600px;
+    /* background-color: wheat; */
+    margin: auto;
+    text-align: center;
+}
+.father-section1 h2{
+    font-family: cursive;
+    font-size: 25px;
+    padding-top: 30px;
+}
+.father-section1 p{
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.father-section1 img {
+    width: 250px;
+    height: 400px;
+    padding-top: 20px;
+    margin: 10px;
+}
+/* end father section 1 ************************************************** */
